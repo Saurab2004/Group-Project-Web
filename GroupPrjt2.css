@@ -1,0 +1,141 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("discussiondark.jpg");
+    background-size:cover;
+       
+}
+.navbar {
+    height:40px;
+    background-color:black;
+    display: flex;
+   color: azure;
+   }
+   
+   .logo{
+       display: flex;
+       align-items: center;
+       margin-left: 7%;
+   }
+   .par{
+       margin-left:10px;
+   }
+   .add{
+       display: flex;
+       align-items: center;
+       margin-left: 10px;
+   }
+   .addd{
+       margin-left:10px;
+   }
+   .clock{
+       display: flex;
+       align-items: center;
+       margin-left: 10px;
+   }
+   .time{
+       display: flex;
+       align-items: center;
+      margin-left:10px;
+   }
+   .facebook{
+       display: flex;
+       align-items: center;
+       margin-left: 30%;
+   }
+   .instagram{
+       display: flex;
+       align-items: center;
+       margin-left: 1%;
+   }
+   .twitter{
+       display: flex;
+       align-items: center;
+       margin-left: 1%;
+   } 
+
+.header {
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 10px 0;
+}
+
+.title {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 50px;
+}
+
+.title span {
+    font-size: 24px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.menu {
+    display: inline-block;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #333;
+    padding: 10px 15px;
+    display: inline-block;
+}
+
+.menu a:hover {
+    background-color: #f0f0f0;
+}
+
+.search {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 50px;
+}
+
+.search input {
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.para1 {
+    
+    color: #fff;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.center {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.center h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+.center p {
+    font-size: 18px;
+    margin: 20px 0;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.buttons .button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 0 10px;
+    border-radius: 4px;
+}
+
+.buttons .button:hover {
+    background-color: #555;
+}
